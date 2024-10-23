@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KyriakosN
 - 👀 I’m interested in video game and app development 
-- 🌱 I’m currently learning python and java 
+- 🌱 I’m currently learning python and java (would also like to learn more)
 - 💞️ I’m looking to collaborate on a variety of projects 
-- 📫 How to reach me ... X(Tweeter): "@kyriakosn_", Instagram: "@kyriakosn_" 
+- 📫 How to reach me: X(Tweeter): "@kyriakosn_", Instagram: "@kyriakosn_" 
 - ⚡ Fun fact: I also love 3D printing and 3D modeling 
 
 <!---
